@@ -12,4 +12,5 @@
 # За Every statement методата беа потребни 3 тестови за да се исполни условот, истите тестови потребни за every statement методата беа доволни и за да ги исполни условите и на Every brench методата. Овие 3 тестови ги запишав во Ексел документот, но и ги употребив како unit тестови. Ги проверив 3те тестови од кои 2 тестови враќаат exception. Поради тоа што два враќаа exception, а имам JUnit 4 морав да напишам код "@Test(expected = IllegalArgumentException.class)", поради овој код напишав посебни функции за секој тест поединечно. JUnit рануваше успешно.
 
 
-![Fax2](https://user-images.githubusercontent.com/56222866/169652731-9b3334c0-41c5-4687-bd92-2f1589100aaf.png)
+![Fax2](https://user-images.githubusercontent.com/56222866/169653020-92ae94ab-6b03-479f-a941-a8ea308d6904.png)
+
