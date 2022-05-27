@@ -3,9 +3,11 @@
 ![CFGLab2](https://user-images.githubusercontent.com/56222866/169652212-8260d2e3-e791-443d-9329-55195b1a8e65.png)
 
 
-![20220521_115632](https://user-images.githubusercontent.com/56222866/169652231-c9d10478-07dc-49a6-b5bf-46710b7f2b7d.jpg)
+![20220527_105529](https://user-images.githubusercontent.com/56222866/170667948-33d92caa-5831-4d51-b8e5-35f54e358581.jpg)
 
-# Цикломатската комплексност ја израчунав според бројот на региони кои ги има Control Flow Graphot, има 6 региони +1 надворешен = 7. Оваа бројка на цикломатска комплексност значи дека кодот има структуриран и добро напишан код, high testability и овозможува помалку трошоци и напор.
+![CVrednost](https://user-images.githubusercontent.com/56222866/170668032-a6b2cdea-4b56-4425-9517-66f9c663c772.jpg)
+
+# Цикломатската комплексност ја израчунав според бројот на региони кои ги има Control Flow Graphot, има 8 региони +1 надворешен = 9. Оваа бројка на цикломатска комплексност значи дека кодот има структуриран и добро напишан код, high testability и овозможува помалку трошоци и напор.
 
 [EveryStatementEveryBranch.xlsx](https://github.com/Kiksi/SI_2022_lab2_153118/files/8747635/EveryStatementEveryBranch.xlsx)
 
